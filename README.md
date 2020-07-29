@@ -8,7 +8,7 @@ This is my presentation in Digital Signal Processing Course make by FPT Universi
   </tr>
   <tr>
     <td><img src="https://github.com/tadangkhoa1999/Short-time-Fourier-Transform-example/blob/master/img/random_signal_2.jpg?raw=true" alt="3" width = 360px height = 360px></td>
-    <td><img src="https://github.com/tadangkhoa1999/Short-time-Fourier-Transform-example/blob/master/img/random_signal_2.jpg?raw=tru" alt="4" width = 360px height = 360px>
+    <td><img src="https://github.com/tadangkhoa1999/Short-time-Fourier-Transform-example/blob/master/img/random_signal_2_stft.jpg?raw=true" alt="4" width = 360px height = 360px>
     </td>
   </tr>
 </table>
